@@ -2,4 +2,4 @@ server:
   port: 8081
 
 app:
-  message: "New Order! Configuration loaded from Config Server."
+  message: "Último mensaje del curso."
